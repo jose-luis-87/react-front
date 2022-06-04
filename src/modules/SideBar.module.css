@@ -1,0 +1,16 @@
+.sidebarCont{
+    width: 18%;
+    height: 84%;
+    position: fixed;
+    top: 8%;
+    left: 0;
+    background-color: blueviolet;
+    padding: 4%;
+}
+.btnSide{
+    position: relative;
+    color:aliceblue;
+    z-index: 99;
+    background-color: blue;
+    padding: 1%;
+}

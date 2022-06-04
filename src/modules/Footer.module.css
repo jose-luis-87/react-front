@@ -1,0 +1,9 @@
+.footerCont{
+    width: 100vw;
+    height: 8%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    background-color: blue;
+}
